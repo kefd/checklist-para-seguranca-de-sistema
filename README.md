@@ -13,3 +13,6 @@
 - Proteção contra XSS
 - Se o sistema for critico, utilização de meios de autenticação alternativos como SMS ou Token?
 
+
+Open id, Oauth, JWT, sanitize
+
